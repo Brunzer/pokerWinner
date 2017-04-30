@@ -45,7 +45,7 @@ Here you can pass the hand strings directly to the findWinner function
 	5H QD 6H 7C 7D
 ```
 
-### RUNING TESTS
+### RUNNING TESTS
 tests/pokerTests.py imports the unittest python module and runs through multiple functions to test appropriate output from the program.
 
 To run these tests, use either unittest or nosetests (make sure you have these installed already. If not you can install these using pip)
